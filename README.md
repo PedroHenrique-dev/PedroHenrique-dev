@@ -1,4 +1,12 @@
-### Hi there 👋
+# 🔰Olá! Eu sou o Pedro Henrique 😁
+
+## Áreas em que estudo:
+- 💻 Pesquisa Operacional
+- 📈 Ciência de Dados
+<!--
+## Ferramentas e linguagens
+- 🐍 Python
+- ☕ Java
 
 <!--
 **PedroHenrique-dev/PedroHenrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
