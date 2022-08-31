@@ -5,6 +5,7 @@
 - 📈 Ciência de Dados
 
 Linguagem que mais uso:
+- C++
 - 🐍 Python
 
 ## 📚 Meu curso:
