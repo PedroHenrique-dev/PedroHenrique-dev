@@ -2,7 +2,7 @@
 
 ## Área de trabalho:
 - 💻 Desenvolvimento de Software
-- 
+
 ## Áreas em que estudo:
 - 🎯 Pesquisa Operacional
 - 📈 Ciência de Dados
