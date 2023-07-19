@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🔰Olá!,+Eu+sou+o+Pedro+Lima+😁;Estou+cursando+Matemática+Industrial;bacharelado+na+UFC+🏢)](https://git.io/typing-svg)
 
 ## Área de trabalho:
-- 💻 Desenvolvimento de Software
+- 🖥️ Desenvolvimento de Software
 
 ## Áreas em que estudo:
 - 🎯 Pesquisa Operacional
@@ -9,6 +9,7 @@
 
 Linguagem que mais uso:
 - C++
+- ☕ Java
 - 🐍 Python
 
 ## 📚 Meu curso:
